@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\bin\Debug\net8.0\INDEXicetask.exe
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\bin\Debug\net8.0\INDEXicetask.deps.json
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\bin\Debug\net8.0\INDEXicetask.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\bin\Debug\net8.0\INDEXicetask.dll
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\bin\Debug\net8.0\INDEXicetask.pdb
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\INDEXicetask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\INDEXicetask.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\INDEXicetask.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\INDEXicetask.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\INDEXicetask.dll
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\refint\INDEXicetask.dll
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\INDEXicetask.pdb
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\INDEXicetask.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\INDEXicetask\INDEXicetask\obj\Debug\net8.0\ref\INDEXicetask.dll
